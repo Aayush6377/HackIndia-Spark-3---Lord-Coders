@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a comprehensive sustainability website developed by our team during our internship. The website aims to provide resources, tools, and community support for promoting sustainable living. The project is built using HTML, CSS, PHP, and MySQL.
+This project is a comprehensive sustainability website developed by our team during our Hackathon. The website aims to provide resources, tools, and community support for promoting sustainable living as well as awareness. The project is built using HTML, CSS, JS,  PHP, MySQL, AI/ML, Blockchain and Web3 Technologies.
 
 ![Home page](https://github.com/Aayush6377/HackIndia-Spark-3---Lord-Coders/blob/main/img/home.png)
 
