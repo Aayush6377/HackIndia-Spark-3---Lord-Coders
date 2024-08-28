@@ -4,7 +4,7 @@
 
 This project is a comprehensive sustainability website developed by our team during our internship. The website aims to provide resources, tools, and community support for promoting sustainable living. The project is built using HTML, CSS, PHP, and MySQL.
 
-![Home page](https://github.com/Aayush6377/Summer-Internship-2/blob/main/GreenPath/img/home.png)
+![Home page](https://github.com/Aayush6377/HackIndia-Spark-3---Lord-Coders/blob/main/img/home.png)
 
 ## Features
 
